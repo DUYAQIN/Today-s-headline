@@ -1,0 +1,34 @@
+*{
+	margin: 0;/* body-8px */
+	text-decoration: none;
+	padding: 0;/* ul */
+	list-style: none;
+	font-style: normal;
+	box-sizing: border-box;
+}
+
+/* img默认有border大小，需要清除 */
+/* img{
+	border: 0;
+	display: block;
+}
+ */
+
+
+
+
+
+
+
+
+
+
+form{
+	display: block;
+	margin: 0;
+}
+input{
+	cursor: text;
+    background-color: white;
+}
+
